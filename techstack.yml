@@ -2,7 +2,7 @@ repo_name: 2lambda123/home-assistant-bosch-custom-component
 report_id: 3292ca46ba542e4b0b19c1664343973d
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-29T20:31:51+00:00'
+timestamp: '2024-01-05T08:14:17+00:00'
 requested_by: pszafer
 provider: github
 branch: master
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/2lambda123/home-assistant-bosch-custom-component
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -26,6 +27,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/home-assistant-bosch-custom-component
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -35,6 +37,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/2lambda123/home-assistant-bosch-custom-component/blob/master/.github/workflows/hacs.yaml
   detection_source: ".github/workflows/hacs.yaml"
   last_updated_by: Paweł Szafer
   last_updated_on: 2022-06-29 09:04:05.000000000 Z
